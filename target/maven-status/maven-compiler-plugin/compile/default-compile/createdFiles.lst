@@ -1,0 +1,8 @@
+com\springSQL\spring\controllers\UsuarioController.class
+com\springSQL\spring\dao\UsuarioDaoImp.class
+com\springSQL\spring\models\Usuario.class
+com\springSQL\spring\ServletInitializer.class
+com\springSQL\spring\utils\JWTUtil.class
+com\springSQL\spring\Application.class
+com\springSQL\spring\dao\UsuarioDao.class
+com\springSQL\spring\controllers\AuthController.class
